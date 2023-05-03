@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    adsf (1.4.7)
+      rack (>= 1.0.0, < 4.0.0)
+      rackup (~> 2.1)
+    rack (3.0.7)
+    rackup (2.1.0)
+      rack (>= 3)
+      webrick (~> 1.8)
+    webrick (1.8.1)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  adsf
+
+BUNDLED WITH
+   2.2.15
